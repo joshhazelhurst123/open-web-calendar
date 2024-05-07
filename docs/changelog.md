@@ -14,6 +14,7 @@ These correspond to the [tags]({{link.tags}}).
 The latest version might not be released, yet.
 
 - v1.33
+    - Update about.html #361 https://github.com/niccokunzmann/open-web-calendar/pull/361
     - Update dependencies
     - Add alternate link to "text/calendar" content to ease subscribing for other calendars, see [Issue 308](https://github.com/niccokunzmann/open-web-calendar/issues/308)
     - Use calendar feeds from alternate links to "text/calendar" content, see [Issue 309](https://github.com/niccokunzmann/open-web-calendar/issues/309)
